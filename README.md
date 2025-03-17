@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </div>
 <hr>
 <div align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Если у&nbsp;Вас есть какие-либо идеи&nbsp;и (или) проекты, предложения по&nbsp;их&nbsp;реализации, свяжитесь со&nbsp;мной&nbsp;&mdash; пообщаемся, вместе будем решать возникающие вопросы и&nbsp;задачи, создавать новое и&nbsp;полезное для всех нас. Как любят говорить американцы&nbsp;&mdash;<span font-color="blue"> we&nbsp;make the world a&nbsp;better place</span>. Ну&nbsp;а&nbsp;я, помимо прочего, получу бонус в&nbsp;виде наслаждения новой пусть даже и&nbsp;небольшой победой над хаосом бытия и&nbsp;upgrade my&nbsp;programmer&rsquo;s skills.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Если у&nbsp;Вас есть какие-либо идеи&nbsp;и (или) проекты, предложения по&nbsp;их&nbsp;реализации, свяжитесь со&nbsp;мной&nbsp;&mdash; пообщаемся, вместе будем решать возникающие вопросы и&nbsp;задачи, создавать новое и&nbsp;полезное для всех нас. Как любят говорить американцы&nbsp;&mdash; we&nbsp;make the world a&nbsp;better place. Ну&nbsp;а&nbsp;я, помимо прочего, получу бонус в&nbsp;виде наслаждения новой пусть даже и&nbsp;небольшой победой над хаосом бытия и&nbsp;upgrade my&nbsp;programmer&rsquo;s skills.
 </div>
